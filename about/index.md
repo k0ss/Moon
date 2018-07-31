@@ -19,15 +19,22 @@ In this blog, it is my intent to share with you:
 
 # <center>Résumé</center>
 ## Experience
-**VMWare, Inc.** | **Security Engineer** | **Austin, TX** | **07/2016-Present**
+**Cisco Systems (ASIG)** | **Security Researcher** | **Austin, TX/Remote** | **08/2017-Present**
+* Perform in-depth static and dynamic code analysis.
+* Reverse engineer custom network protocols to aid vulnerability analysis.
+* Create documentation for existing tools and create new tools to automate bug discovery.
+* Assess memory corruption bugs for exploitability.
+* Lead an intern project to create an internal fuzzer management framework.
+
+**VMWare, Inc.** | **Security Engineer** | **Austin, TX** | **07/2016-08/2017**
 * Manage the SDL Process from idea to release with multiple product teams.
 * Pentest Java/C++ applications.
 * Analyze configurations of SaaS service stack applications for insecure implementations.
 * Evaluate security of cloud applications in an AWS environment.
 
-**Cisco Systems** | **Security Researcher** | **Austin, TX** | **08/2014-07/2016**
-* Performed in­depth static and dynamic code analysis.
-* Reverse ­engineered custom network protocols for vulnerability analysis.
+**Cisco Systems (ASIG)** | **Security Researcher** | **Austin, TX** | **08/2014-07/2016**
+* Performed in-depth static and dynamic code analysis.
+* Reverse engineered custom network protocols for vulnerability analysis.
 * Researched using open source tools like AFL and angr to automate bug discovery.
 * Assessed memory corruption bugs for exploitability.
 * Hunted down more complex bugs such as cryptographic implementation flaws.
@@ -46,7 +53,6 @@ In this blog, it is my intent to share with you:
 * Reported vulnerabilities in websites/software
  * ArmedAssult.info SQLi, XSS (2007)
  * OpenText FirstClass Code Execution (2011)
- * *VLC Media Player possibly exploitable crashes (in progress)*
  * *Emby Media Server multiple vulnerabilities (in progress)*
 * Contributed to open source concolic execution engine Angr project
 * Practicing new techniques to get code execution (ROP, Heap Spraying, [how2heap](https://github.com/shellphish/how2heap))
