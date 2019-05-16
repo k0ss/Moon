@@ -38,7 +38,7 @@ In this blog, it is my intent to share with you:
 * Performed in-depth static and dynamic code analysis.
 * Reverse engineered custom network protocols for vulnerability analysis.
 * Researched using open source tools like AFL and angr to automate bug discovery.
-* Assessed memory corruption bugs for exploitability.
+* Turn memory corruption and logic bugs I find into working exploits for proofs of concept.
 * Hunted down more complex bugs such as cryptographic implementation flaws.
 * Customized a collaborative CTF lab and encouraged CTF participation in our department.
 
