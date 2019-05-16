@@ -23,9 +23,9 @@ In this blog, it is my intent to share with you:
 * Perform in-depth static and dynamic code analysis.
 * Reverse engineer custom network protocols to aid vulnerability analysis.
 * Create documentation for existing tools and create new tools to automate bug discovery.
-* Assess memory corruption bugs for exploitability.
+* Turn memory corruption and logic bugs I find into working exploits for proofs of concept.
 * Lead an intern project to create an internal fuzzer management framework.
-* Implement an tool for feedback-based fuzzing of server binaries without source code or reversing.
+* Implement a tool for feedback-based fuzzing of server binaries without source code or reversing.
 
 **VMWare, Inc.** | **Security Engineer** | **Austin, TX** | **07/2016-08/2017**
 * Managed the SDL Process from idea to release and response with multiple product teams.
@@ -55,11 +55,10 @@ In this blog, it is my intent to share with you:
 * Reported vulnerabilities in websites/software
  * ArmedAssult.info SQLi, XSS (2007)
  * OpenText FirstClass Code Execution (2011)
- * *Emby Media Server multiple vulnerabilities (in progress)*
-* Contributed to open source concolic execution engine Angr project
-* Practicing new techniques to get code execution (ROP, Heap Spraying, [how2heap](https://github.com/shellphish/how2heap))
-* Wrote x86 shellcode to bypass character restrictions
-* Static/Dynamic Binary Analysis using IDA, Immunity Debugger, gdb, windbg
+* [Contributed to](https://github.com/angr/angr-doc/blob/master/docs/examples.md#beginner-vulnerability-discovery-example-strcpy_find) open source concolic execution engine project, Angr
+* Familiar with newest binary exploitation techniques (ROP, Heap Spraying, learning [how2heap](https://github.com/shellphish/how2heap))
+* Familiar with shellcoding for x86 and bypassing character restrictions
+* Static/Dynamic Binary Analysis using IDA, frida, angr, gdb, windbg, Immunity Debugger
 
 ## Education / Certifications
 **University of Maine** | **B.Sci. in Computer Science** | ***German Minor*** | **2014**
