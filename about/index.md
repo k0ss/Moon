@@ -28,10 +28,11 @@ In this blog, it is my intent to share with you:
 * Implement an tool for feedback-based fuzzing of server binaries without source code or reversing.
 
 **VMWare, Inc.** | **Security Engineer** | **Austin, TX** | **07/2016-08/2017**
-* Manage the SDL Process from idea to release with multiple product teams.
-* Pentest Java/C++ applications.
-* Analyze configurations of SaaS service stack applications for insecure implementations.
-* Evaluate security of cloud applications in an AWS environment.
+* Managed the SDL Process from idea to release and response with multiple product teams.
+* Pentested Java/C++ applications.
+* Analyzed configurations of SaaS service stack applications for insecure implementations.
+* Evaluated security of cloud applications in an AWS environment.
+* Triaged bugs for exploitability in a response role as needed.
 
 **Cisco Systems (ASIG)** | **Security Researcher** | **Austin, TX** | **08/2014-07/2016**
 * Performed in-depth static and dynamic code analysis.
