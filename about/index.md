@@ -25,7 +25,7 @@ In this blog, it is my intent to share with you:
 * Create documentation for existing tools and create new tools to automate bug discovery.
 * Assess memory corruption bugs for exploitability.
 * Lead an intern project to create an internal fuzzer management framework.
-* Implement an tool for feedback-based fuzzing of server binaries without source code or reverse engineering.
+* Implement an tool for feedback-based fuzzing of server binaries without source code or reversing.
 
 **VMWare, Inc.** | **Security Engineer** | **Austin, TX** | **07/2016-08/2017**
 * Manage the SDL Process from idea to release with multiple product teams.
