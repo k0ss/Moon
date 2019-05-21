@@ -55,7 +55,7 @@ In this blog, it is my intent to share with you:
 * Reported vulnerabilities in websites/software
  * ArmedAssult.info SQLi, XSS (2007)
  * OpenText FirstClass Code Execution (2011)
-* [Contributed to](https://github.com/angr/angr-doc/blob/master/docs/examples.md#beginner-vulnerability-discovery-example-strcpy_find) open source concolic execution engine project, Angr
+* [Contributed to](https://docs.angr.io/examples#vulnerability-discovery) open source concolic execution engine project, Angr
 * Familiar with newest binary exploitation techniques (ROP, Heap Spraying, learning [how2heap](https://github.com/shellphish/how2heap))
 * Familiar with shellcoding for x86 and bypassing character restrictions
 * Static/Dynamic Binary Analysis using IDA, frida, angr, gdb, windbg, Immunity Debugger
